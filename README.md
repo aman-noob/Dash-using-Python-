@@ -1,0 +1,2 @@
+Dash is an open source framework for building data visualization interfaces. Released in 2017 as a Python library, it’s grown to include implementations for R and Julia. Dash helps data scientists build analytical web applications without requiring advanced web development knowledge.
+Dash will help you build dashboards quickly. If you’re used to analyzing data or building data visualizations using Python, then Dash will be a useful addition to your toolbox
